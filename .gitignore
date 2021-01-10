@@ -1,0 +1,10 @@
+﻿#忽略根目录下某文件夹所有内容
+/Debug/*
+/Release/*
+/ipch/*
+/PtCode/Debug/*
+/PtCode/Release/*
+
+#忽略某种文件
+*.sdf
+*.suo
